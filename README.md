@@ -1,2 +1,5 @@
 # Servo Pin and Connector Datasheets
-Dimensions for Futabo J Style and JR Style Servo Connectors
+This document show the Dimensions for connectors and pins for the 2 Servo Standards 
+
+- Futabo J Style Servo Connector
+- JR Style Servo Connector 
